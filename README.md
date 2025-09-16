@@ -1,9 +1,5 @@
 # IMEI Atlas - أطلس IMEI
 
-## English
-
-### Overview
-IMEI Atlas is a powerful Python-based tool for generating, validating, and managing International Mobile Equipment Identity (IMEI) numbers. Specifically designed for network administrators and technicians working with MikroTik and FiberHome router equipment.
 
 ### Features
 - Generate valid IMEI numbers using the Luhn algorithm
@@ -19,7 +15,7 @@ IMEI Atlas is a powerful Python-based tool for generating, validating, and manag
 ### Installation
 1. Ensure you have Python 3.6+ installed
 2. Download or clone this repository
-3. Run the script: `python imei_atlas.py`
+3. Run the script: `IMEI Atlas 2.5.py` or IMEI Atlas 2.5.exe
 
 ### Command Line Options
 - `--count N`: Set number of IMEIs to generate per device
@@ -51,9 +47,6 @@ Telegram: @VHSPC
 
 ## العربية (Arabic)
 
-### نظرة عامة
-أطلس IMEI هو أداة قائمة على بايثون مخصصة لتوليد والتحقق من وإدارة أرقام هوية المعدات الدولية للهواتف المحمولة (IMEI). مصمم خصيصًا لمسؤولي الشبكات والفنيين الذين يعملون مع معدات راوتر MikroTik وFiberHome.
-
 ### الميزات
 - توليد أرقام IMEI صالحة باستخدام خوارزمية Luhn
 - قاعدة بيانات مسبقة الإعداد لأجهزة شائعة (آيفون، سامسونج، راوترات، إلخ)
@@ -68,7 +61,7 @@ Telegram: @VHSPC
 ### التثبيت
 1. تأكد من تثبيت Python 3.6 أو أحدث
 2. حمل أو انسخ هذا المستودع
-3. شغل البرنامج: `python imei_atlas.py`
+3. شغل البرنامج: `IMEI Atlas 2.5.py` or IMEI Atlas 2.5.exe
 
 ### خيارات سطر الأوامر
 - `--count N`: تحديد عدد أرقام IMEI التي سيتم توليدها لكل جهاز
